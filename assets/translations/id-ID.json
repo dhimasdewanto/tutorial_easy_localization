@@ -1,0 +1,20 @@
+{
+    "title": "Halo Dunia!",
+    "message": "{} ditulis menggunakan bahasa pemrogaman {}",
+    "message2": "{framework} ditulis menggunakan bahasa pemrogaman {lang}",
+    "clicked": {
+        "zero": "Anda belum menekan tombol",
+        "one": "Anda menekan sekali!",
+        "two": "Anda menekan {} kali!",
+        "few": "Anda menekan {} kali!",
+        "many": "Anda menekan {} kali!",
+        "other": "Anda menekan {} kali!"
+    },
+    "profile": {
+        "reset_password": {
+            "label": "Ulang Kata Sandi",
+            "username": "Nama Pengguna",
+            "password": "kata sandi"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "title": "Hello World!",
+    "message": "{} are written in the {} language",
+    "message2": "{framework} are written in the {lang} language",
+    "clicked": {
+        "zero": "You not clicked yet",
+        "one": "You clicked {} time!",
+        "two": "You clicked {} times!",
+        "few": "You clicked {} times!",
+        "many": "You clicked {} times!",
+        "other": "You clicked {} times!"
+    },
+    "profile": {
+        "reset_password": {
+            "label": "Reset Password",
+            "username": "Username",
+            "password": "password"
+        }
+    }
+}
